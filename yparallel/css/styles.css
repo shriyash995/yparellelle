@@ -1,0 +1,144 @@
+body{
+  font-family: 'Rubik', sans-serif;
+}
+#title{
+  padding: 20px 0 100px 0;
+}
+/* .fix-title{
+  position: fixed;
+} */
+h1{
+  color: rgb(245, 65, 141);
+  font-size: 60px;
+  font-weight: bold;
+}
+/* Title */
+.title-right{
+}
+#title-para{
+  font-size: 16px;
+  color: #204051;
+}
+.title1{
+  margin: auto;
+  text-align: center;
+  width: 70%;
+}
+.img1{
+  width: 100%;
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+/* Navigation bar */
+.navbar{
+  padding: 0 0 4.5rem;
+  color: #30323B;
+}
+.navbar:hover{
+  color: #F5418D;
+}
+.nav-items{
+  padding: 8px 16px;
+  color: #30323B;
+}
+.logo{
+  width: 150px;
+}
+
+/* MIDDLE-CONTENT */
+.mid-content{
+  padding-top: 100px;
+  margin: auto;
+}
+.mid-para{
+  margin: auto;
+  width: 100%;
+}
+.img2{
+  width: 100%;
+}
+.textchange{
+  color: rgb(245, 65, 141);
+}
+
+/* OUR SERVICES */
+
+#our-services{
+  background-color: #ebebeb;
+}
+.ser-content{
+  padding-top: 100px;
+}
+.card4{
+  width: 200px;
+  height: 250px;
+  text-align: center;
+  background-color: #fff;
+}
+.cardi1{
+  margin: 20px auto 10px auto;
+  width: 70px;
+}
+
+/* SUBSCRIBE */
+
+.zpcontainer{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+#subscribe{
+  text-align: center;
+  color: #fff;
+}
+.zpbutton{
+}
+/* .pinki{
+width: auto;
+} */
+
+/* LOGOS */
+
+#Customers{
+  padding: 3% 15%;
+}
+.imglo{
+  width: 150px;
+}
+
+/* TOUCH */
+
+#gettoch{
+  background-color: #ebebeb;
+  padding: 3% 15% 0 15%;
+  text-align: left;
+}
+#hor{
+  padding: 3% 15%;
+}
+.info{
+  padding-top: 0;
+  padding-bottom: 50px;
+}
+.add{
+  color: #4b5d67;
+}
+
+/* COLLABORATE */
+
+
+#footer{
+  text-align: center;
+  padding-bottom: 50px;
+}
+.quotet{
+  margin: 100px auto 50px auto;
+  padding: 50px auto;
+}
+#link{
+  text-align: center;
+  margin-bottom: 50px;
+}
+.img4{
+  width: 40px;
+}
